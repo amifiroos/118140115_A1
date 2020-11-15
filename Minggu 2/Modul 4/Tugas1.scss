@@ -1,0 +1,92 @@
+$colour1 : rgb(29, 54, 36);
+$colour2 : rgb(121, 189, 140);
+$number1:20px;
+$align1:center;
+
+.header{
+    color: $colour1;
+    background-color:rgb(172, 191, 177) ;
+    overflow:hidden;
+}
+.navbar{
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow:hidden;
+        background-color: $colour1;
+    }
+    li{
+        float: left;
+        margin-right: $number1;
+    }
+    li a{
+        display:block;
+        color: white;
+        text-align: $align1;
+        padding: 14px $number1;
+        text-decoration: none;
+    }
+
+    li a:hover{
+        background-color: $colour2;
+    }
+}
+
+.Home h2{
+    color: white;
+    background-color: rgb(2, 36, 13);
+    padding-left: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.Home p {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify; 
+}
+.Contact h2{
+    color: white;
+    background-color: rgb(2, 36, 13);
+    padding-left: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.Contact p{
+    padding-left: 20px;
+}
+.Gallery h2{
+    color: white;
+    background-color: rgb(2, 36, 13);
+    padding-left: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0 ;
+    overflow:hidden;
+}
+.Gallery img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.About h2{
+    color: white;
+    background-color: rgb(2, 36, 13);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+.About p{
+    padding-left: 20px;
+}
+.footer{
+    background-color: $colour1;
+    color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+}
