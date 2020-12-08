@@ -1,0 +1,20 @@
+{
+    "nama" : "Hamidah Firoos",
+    "Saudara": ["Fathur", "Aqila"],
+    "OrangTua" : {
+        "ibu":"Siti",
+        "ayah": "Arno"
+    },
+    "hobi": ["Nonton film", "Baca Novel", "Tidur", "Liat liat shopee tapi ga checkut"],
+    "alamat" :{
+        "jalan":"jl. purnawirawan",
+        "kota":"Bandar Lampung"
+    },
+    "sosmed":{
+        "github": "amifiroos",
+        "instagram":"namanyami"
+    },
+    "makananFav":["Bakso", "Sate"]
+
+
+}

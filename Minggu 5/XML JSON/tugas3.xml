@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Hamidah</awal>
+        <akhir>Firoos</akhir>
+    </nama>
+
+    <saudara>
+        <adik> Fathur </adik>
+        <adik> Aqila </adik>
+    </saudara>
+
+    <orangtua>
+        <ibu> Siti </ibu>
+        <ayah> Arno </ayah>
+    </orangtua>
+
+    <hobi>
+        <activity>Nonton film</activity>
+        <activity>Baca novel</activity>
+        <activity>Tidur</activity>
+        <activity>Liat liat shopee tapi ga beli</activity>
+    </hobi>
+
+    <alamat>
+        <jalan> Jl Purnawirawan</jalan>
+        <kota>Bandar Lampung</kota>
+    </alamat>
+
+    <sosmed>
+        <github>amifiroos</github>
+        <instagram>namanyami</instagram>
+    </sosmed>
+
+    <makananFav>
+        <food>Bakso</food>
+        <food>Sate</food>
+    </makananFav>
+</dataDiri>
